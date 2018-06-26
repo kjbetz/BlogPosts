@@ -1,0 +1,14 @@
+/home/kjbetz/Source/Repos/kjbetz/BlogPosts/bin/Debug/netcoreapp2.1/BlogPosts.deps.json
+/home/kjbetz/Source/Repos/kjbetz/BlogPosts/bin/Debug/netcoreapp2.1/BlogPosts.runtimeconfig.json
+/home/kjbetz/Source/Repos/kjbetz/BlogPosts/bin/Debug/netcoreapp2.1/BlogPosts.runtimeconfig.dev.json
+/home/kjbetz/Source/Repos/kjbetz/BlogPosts/bin/Debug/netcoreapp2.1/BlogPosts.dll
+/home/kjbetz/Source/Repos/kjbetz/BlogPosts/bin/Debug/netcoreapp2.1/BlogPosts.pdb
+/home/kjbetz/Source/Repos/kjbetz/BlogPosts/obj/Debug/netcoreapp2.1/BlogPosts.csprojAssemblyReference.cache
+/home/kjbetz/Source/Repos/kjbetz/BlogPosts/obj/Debug/netcoreapp2.1/BlogPosts.csproj.CoreCompileInputs.cache
+/home/kjbetz/Source/Repos/kjbetz/BlogPosts/obj/Debug/netcoreapp2.1/BlogPosts.RazorAssemblyInfo.cache
+/home/kjbetz/Source/Repos/kjbetz/BlogPosts/obj/Debug/netcoreapp2.1/BlogPosts.RazorAssemblyInfo.cs
+/home/kjbetz/Source/Repos/kjbetz/BlogPosts/obj/Debug/netcoreapp2.1/BlogPosts.AssemblyInfoInputs.cache
+/home/kjbetz/Source/Repos/kjbetz/BlogPosts/obj/Debug/netcoreapp2.1/BlogPosts.AssemblyInfo.cs
+/home/kjbetz/Source/Repos/kjbetz/BlogPosts/obj/Debug/netcoreapp2.1/BlogPosts.RazorTargetAssemblyInfo.cache
+/home/kjbetz/Source/Repos/kjbetz/BlogPosts/obj/Debug/netcoreapp2.1/BlogPosts.dll
+/home/kjbetz/Source/Repos/kjbetz/BlogPosts/obj/Debug/netcoreapp2.1/BlogPosts.pdb
